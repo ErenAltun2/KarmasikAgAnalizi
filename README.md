@@ -1,0 +1,34 @@
+# 🕸️ Karmaşık Ağ Analizi (Complex Network Analysis)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Status](https://img.shields.io/badge/Durum-Tamamlandı-green)
+![Library](https://img.shields.io/badge/Library-NetworkX-red)
+
+Bu proje, karmaşık ağ teorisi prensiplerini kullanarak ağ yapıları üzerinde yapısal analizler yapmak ve görselleştirmeler sunmak amacıyla geliştirilmiştir.
+
+---
+
+## 📊 Projeyi ve Kodları Görüntüle
+Tüm kodlar, analiz adımları ve grafik çıktıları Jupyter Notebook dosyasında detaylandırılmıştır. Kodları renkli ve düzenli bir şekilde incelemek için aşağıdaki butona tıklayın:
+
+### 👉 [Analiz Dosyasını Açmak İçin Tıkla](KarmasikAgHafta11.ipynb)
+
+---
+
+## 🔍 Proje İçeriği
+Bu çalışma kapsamında aşağıdaki analizler gerçekleştirilmiştir:
+
+* **Ağ Görselleştirme:** Düğümler (nodes) ve kenarlar (edges) arasındaki ilişkilerin grafiksel gösterimi.
+* **Merkeziyet Ölçümleri:** Degree, Betweenness ve Closeness centrality hesaplamaları.
+* **Topluluk Tespiti:** Ağ içerisindeki yoğunlaşmış grupların (community detection) tespiti.
+* **Yol Analizleri:** En kısa yol (shortest path) ve ağ çapı hesaplamaları.
+
+## 🛠️ Kullanılan Kütüphaneler
+Proje **Python** dili ile geliştirilmiş olup, aşağıdaki kütüphanelerden yararlanılmıştır:
+
+* `NetworkX` - Ağ modelleme ve analiz işlemleri.
+* `Matplotlib` - Veri görselleştirme.
+* `Pandas` - Veri manipülasyonu.
+
+---
+*Bu proje GitHub üzerinden açık kaynak olarak paylaşılmıştır.*
