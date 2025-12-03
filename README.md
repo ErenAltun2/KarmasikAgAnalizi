@@ -29,6 +29,7 @@ Proje **Python** dili ile geliştirilmiş olup, aşağıdaki kütüphanelerden y
 * `NetworkX` - Ağ modelleme ve analiz işlemleri.
 * `Matplotlib` - Veri görselleştirme.
 * `Pandas` - Veri manipülasyonu.
+* `NumPy` - Bilimsel ve matematiksel hesaplamalar.
 
 ---
 *Bu proje GitHub üzerinden açık kaynak olarak paylaşılmıştır.*
