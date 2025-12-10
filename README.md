@@ -11,7 +11,8 @@ Bu proje, karmaşık ağ teorisi prensiplerini kullanarak ağ yapıları üzerin
 ## 📊 Projeyi ve Kodları Görüntüle
 Tüm kodlar, analiz adımları ve grafik çıktıları Jupyter Notebook dosyasında detaylandırılmıştır. Kodları renkli ve düzenli bir şekilde incelemek için aşağıdaki butona tıklayın:
 
-### 👉 [Analiz Dosyasını Açmak İçin Tıkla](KarmasikAgHafta11.ipynb)
+### 👉 [Hafta 11 Analiz Dosyasını Açmak İçin Tıkla](KarmasikAgHafta11.ipynb)
+### 👉 [Hafta 12 Analiz Dosyasını Açmak İçin Tıkla](KarmasikAgHafta12.ipynb)
 
 ---
 
